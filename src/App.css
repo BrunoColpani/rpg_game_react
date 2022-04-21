@@ -1,0 +1,13 @@
+.App {
+  background-color: #24282f;
+  min-height: 100vh;
+  color: #fff;
+}
+
+.App-logo {
+  width: 480px;
+  height: 480px;
+ 
+  background-position: left top;
+  background-size: 100%;
+}
